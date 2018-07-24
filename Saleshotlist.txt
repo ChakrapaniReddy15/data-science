@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>SALESHOTLIST</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+     
+        <h2>CANDIDATE DETAILS</h2>
+
+<form>
+  Canditate Full Name:<br>
+  <input type="text" name="name" value=" ">
+  <br>
+  Job Tittle:<br>
+  <input type= "text" name="role" value=" ">
+  <br>
+  Years of US experience:<br>
+  <input type= "text" value=" ">
+  <br>
+  Overall IT Experience:<br>
+  <input type= "text" value=" ">
+  <br>
+  Work Status:<br>
+     <textarea name="message" rows="3" cols="40"> 
+   </textarea>
+      <br>
+   Visa Status:<br>
+    <input type= "text" value=" ">
+    <br>
+    Current Location:<br>
+    <input type= "text" value=" ">
+    <br>
+    Preferred Location:<br>
+    <input type= "text" value=" ">
+    <br>
+    
+Availability:<br>
+    <input type= "text" value=" ">
+    <br>
+Excellent in Skills:<br>
+ <textarea name="message" rows="6" cols="60"> 
+   </textarea>
+    <br>
+Good in Skills:<br>
+ <textarea name="message" rows="8" cols="80"> 
+   </textarea>
+    <br>
+Knowledgeable in Skills:<br>
+ <textarea name="message" rows="8" cols="80"> 
+   </textarea>
+    <br>
+Phone Screening Timings:<br>
+    <input type= "time">
+    <br>
+F2F availability:<br>
+    <input type= "text" value=" ">
+    <br>
+    <br>
+  <input type="submit" value="Submit">
+</form> 
+
+    </body>
+</html>

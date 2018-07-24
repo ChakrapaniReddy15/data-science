@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <title>RECRUITER</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        
+    <h2>DETAILS</h2>
+
+<form>
+  Recruiter Name (Full Name):<br>
+  <input type="text" name="name" maxlength="80">
+  <br>
+Current Job Title:<br>
+  <input type="text" name="name" value=" ">
+  <br>
+Official Email Id:<br>
+  <input type="text" name="name" value=" ">
+  <br>
+Personal Email id:<br>
+  <input type="text" name="name" value=" ">
+  <br>
+Office Phone:<br>
+  <input type="text"  value=" ">
+  <br>
+Regular Personal Phone:<br>
+  <input type="text" value=" ">
+  <br>
+Current Location:<br>
+  <input type="text" name="name" value=" ">
+  <br>
+Gtalk Id:<br>
+  <input type="text"  value=" ">
+  <br>
+Whatsapp Number:<br>
+  <input type="text"  value=" ">
+  <br>
+Linkedin Id :<br>
+  <input type="text"  value=" ">
+  <br>
+Years of IT Experience:<br>
+  <input type="text"  value=" ">
+  <br>
+Years of Recruitment Experience:<br>
+  <input type="text"  value=" ">
+  <br>
+Nationality:<br>
+  <input type="text" name="name" value=" ">
+  <br>
+Work Status:<br>
+ <textarea name="message" rows="3" cols="40"> 
+   </textarea>
+   <br>
+Date of Birth:<br>
+  <input type="DATE">
+  <br>
+    <br>
+  <input type="submit" value="Submit">
+</form>
+    </body>
+</html>
